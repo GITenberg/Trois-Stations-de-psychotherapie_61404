@@ -1,5 +1,8 @@
 _repo: Trois-Stations-de-psychotherapie_61404
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61404-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrès, Maurice
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
     - http://en.wikipedia.org/wiki/Maurice_Barrès
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61404#Trois-Stations-de-psychotherapie
 gutenberg_issued: '2020-02-14'
 gutenberg_type: Text
 identifiers:
