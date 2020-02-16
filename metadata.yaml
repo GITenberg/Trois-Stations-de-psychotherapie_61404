@@ -1,0 +1,28 @@
+_repo: Trois-Stations-de-psychotherapie_61404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrès, Maurice
+    aliases:
+    - Barrès, M. (Maurice)
+    - Barres, Maurice
+    birthdate: 1862
+    deathdate: 1923
+    gutenberg_agent_id: '6948'
+    url: http://www.gutenberg.org/2009/agents/6948
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Maurice_Barrès
+    - http://en.wikipedia.org/wiki/Maurice_Barrès
+description: ''
+gutenberg_issued: '2020-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61404'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trois Stations de psychothérapie
+url: http://www.gutenberg.org/ebooks/61404
